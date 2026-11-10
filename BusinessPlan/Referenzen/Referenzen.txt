@@ -1,0 +1,45 @@
+1. Utility AI : https://www.youtube.com/watch?v=p3Jbp2cZg3Q
+1.2 Utiliti AI : http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter09_An_Introduction_to_Utility_Theory.pdf
+2. Realistic NPCs in Video GamesUsing Different AI Approaches : https://publications.lib.chalmers.se/records/fulltext/245348/245348.pdf
+3. Artificial Intelligence A Modern Approach : https://www.konkurcomputer.ir/dl/reference/artificial_intelligence/Exercise%20Solution%20%20for%20Artificial%20Intelligence.pdf
+5. Creating Socially Interactive Non Player Characters: file:///C:/Users/Anwender/Downloads/Creating_socially_interactive_no-player_characters.pdf
+6. Exploring the Design of Companions in Video Games https://www.medien.ifi.lmu.de/pubdb/publications/pub/bouquet2018mindtrek/bouquet2018mindtrek.pdf
+7. Artificial intelligence moving serious gaming:Presenting reusable game AI components https://d-nb.info/1202075061/34
+8. https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving : https://www.theguardian.com/games/2021/jul/19/video-gaming-artificial-intelligence-ai-is-evolving
+9. Artificial Intelligence in Video Games : https://towardsdatascience.com/artificial-intelligence-in-video-games-3e2566d59c22
+10.7 AI Game Companies Introducing Us to the Future of Entertainment https://builtin.com/artificial-intelligence/ai-games
+11. AI in Video Games: Toward a More Intelligent Game : https://sitn.hms.harvard.edu/flash/2017/ai-video-games-toward-intelligent-game/
+12.Titanfall AI Design https://news.xbox.com/en-us/2014/02/18/games-titanfall-ai/
+13.Halo AI(Stimulus Behaviours) : https://www.youtube.com/watch?v=NU717sd8oUc
+14. Doom Demon Behaviour untereinander : https://www.youtube.com/watch?v=RcOdtwioEfI
+15. Two Tier AI (Alien Isolation) : https://youtu.be/Nt1XmiDwxhY?t=300
+16. A* Algorithmus : https://www.redblobgames.com/pathfinding/a-star/introduction.html
+17. A* Algorithmus in Modern Games : file:///C:/Users/Anwender/Downloads/A-based_Pathfinding_in_Modern_Computer_Games.pdf
+18. Games and Agents: Designing Intelligent Gamepla : https://www.hindawi.com/journals/ijcgt/2009/837095/
+19. Intelligent Agents for Computer Games : https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.329.4987&rep=rep1&type=pdf
+20. Belivable Tactics for Squad AI : https://www.gdcvault.com/play/1015665/Believable-Tactics-for-Squad
+21. Tactical Position Selection An Architecture and Query Language: http://www.gameaipro.com/GameAIPro/GameAIPro_Chapter26_Tactical_Position_Selection.pdf
+22. Believable Team Behavior:Towards Behavior Capture AI for the Game of Soccer : (Download)https://www.researchgate.net/publication/228411969_Believable_Team_Behavior_Towards_Behavior_Capture_AI_for_the_Game_of_Soccer 
+	file:///C:/Users/Anwender/Downloads/Believable_Team_Behavior_Towards_Behavior_Capture_.pdf
+23. Simulacrum: Building Believable Behaviors in Video Game AI : https://medium.com/@selcarpe/https-medium-com-simulacrum-28477a0e759e
+24 :Game AI Pro : https://books.google.de/books?id=jDb6AwAAQBAJ&pg=PA359&lpg=PA359&dq=Believable+Tactics+for+Squad+AI&source=bl&ots=YRFvuFQLp6&sig=ACfU3U0O5OVyACCwyS3uJXqf9EtcMtiXCg&hl=en&sa=X&ved=2ahUKEwittpK2j_rzAhUCRuUKHdJ2CtYQ6AF6BAgQEAM#v=onepage&q=Believable%20Tactics%20for%20Squad%20AI&f=false
+25: https://www.youtube.com/watch?v=FiFol9Q3gzc "KI Mohrhuhn"
+
+USED!
+
+[26]https://gamefaqs.gamespot.com/top10/526-the-top-10-squad-based-ai-in-fps-games
+Believable Tactics for Squad AI
+[27] Director AI :https://www.youtube.com/watch?v=Mnt5zxb8W0Y
+[28] Alien Isolation : https://youtu.be/Nt1XmiDwxhY?t=302
+[29] Shooter Definition : https://mediarep.org/bitstream/handle/doc/3421/Bopp_Wiemer_Nohr_2009_Shooter_Multidisziplinaere_Einfuehrung.pdf?sequence=1&isAllowed=y
+[30] Ego Shooter Def : https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/9309/file/Dissertation_ClarissaChiossi.pdf
+[31] Modern Enemy Types : https://tvtropes.org/pmwiki/pmwiki.php/Main/StandardFPSEnemies
+[4] Enemy Design Patern : https://users.soe.ucsc.edu/~ejw/papers/rivera-npc-design-patterns-dpg2012.pdf
+[32] Finite Statemashine https://gamedevelopment.tutsplus.com/tutorials/finite-state-machines-theory-and-implementation--gamedev-11867
+[33] Unity Doku : https://docs.unity3d.com/Manual/index.html
+[34] A* : https://www.youtube.com/watch?v=mZfyt03LDH4&list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW&index=3
+[35] ASsets definition : https://eugene.libguides.com/gamedesign/assets
+
+Thesis : https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf
+Zittieren : https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/informationen-weiterverarbeiten/zitieren
+LatexVorlage : https://www.hochschule-trier.de/informatik/intranet-inf/corporate-design-und-vorlagen
